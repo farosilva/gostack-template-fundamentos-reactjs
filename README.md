@@ -6,7 +6,7 @@
 
 Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
-Essa será uma aplicação que irá se conectar ao [Fundamentos NodeJS](https://github.com/farosilva/gostack-template-fundamentos-node), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
+Essa será uma aplicação que irá se conectar ao [GoFinance Server](https://github.com/farosilva/gostack-template-typeorm-upload), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
 
